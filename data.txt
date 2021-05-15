@@ -1,0 +1,186 @@
+Ticket No: 1
+Spot No: 3
+Vehicle Type: Car
+Arrival Time: 07:44:23 AM
+Date: 26/03/2021
+
+Ticket No: 2
+Spot No: 3
+Vehical Type: Aryan Car
+Arrival Time: 08:47:58 PM
+Date: 24/04/2021
+
+Ticket No: 2
+Spot No: 3
+Vehical Type: My Bike
+Arrival Time: 08:49:15 PM
+Date: 24/04/2021
+
+Ticket No: 3
+Spot No: 2
+Vehical Type: My Truck
+Arrival Time: 08:52:04 PM
+Date: 24/04/2021
+
+Ticket No: 4
+Spot No: 2
+Vehical Type: This Car
+Arrival Time: 08:55:18 PM
+Date: 24/04/2021
+
+Ticket No: 5
+Spot No: 4
+Vehical Type: My New Bike
+Arrival Time: 09:38:23 PM
+Date: 24/04/2021
+
+Ticket No: 6
+Spot No: 3
+Vehical Type: This Home
+Arrival Time: 12:22:37 PM
+Date: 25/04/2021
+
+Ticket No: 19
+Spot No: 3
+Vehical Type: Car New
+Arrival Time: 01:02:25 PM
+Date: 26/04/2021
+
+Ticket No: 8
+Spot No: 2
+Vehical Type: hfjf
+Arrival Time: 01:04:24 PM
+Date: 26/04/2021
+
+Ticket No: 9
+Spot No: 3
+Vehical Type: My Bike
+Arrival Time: 01:19:02 PM
+Date: 26/04/2021
+
+Ticket No: 10
+Spot No: 3
+Vehical Type: bike
+Arrival Time: 01:21:54 PM
+Date: 26/04/2021
+
+Ticket No: 11
+Spot No: 3
+Vehical Type: ergr
+Arrival Time: 01:23:35 PM
+Date: 26/04/2021
+
+Ticket No: 12
+Spot No: 2
+Vehical Type: hd
+Arrival Time: 01:24:33 PM
+Date: 26/04/2021
+
+Ticket No: 13
+Spot No: 3
+Vehical Type: 3
+Arrival Time: 01:58:37 PM
+Date: 26/04/2021
+
+Ticket No: 14
+Spot No: 3
+Vehical Type: My bike
+Arrival Time: 02:00:37 PM
+Date: 26/04/2021
+
+Ticket No: 15
+Spot No: 1
+Vehical Type: Bike
+Arrival Time: 02:01:23 PM
+Date: 26/04/2021
+
+Ticket No: 16
+Spot No: 2
+Vehical Type: this car
+Arrival Time: 02:05:48 PM
+Date: 26/04/2021
+
+Ticket No: 17
+Spot No: 4
+Vehical Type: Bike
+Arrival Time: 02:08:00 PM
+Date: 26/04/2021
+
+Ticket No: 18
+Spot No: 3
+Vehical Type: This Car
+Arrival Time: 02:09:29 PM
+Date: 26/04/2021
+
+Ticket No: 19
+Spot No: 2
+Vehical Type: This Car
+Arrival Time: 02:11:40 PM
+Date: 26/04/2021
+
+Ticket No: 20
+Spot No: 2
+Vehical Type: Car
+Arrival Time: 02:29:32 PM
+Date: 26/04/2021
+
+Ticket No: 21
+Spot No: 2
+Vehical Type: Bike 
+Arrival Time: 03:09:10 PM
+Date: 26/04/2021
+
+Ticket No: 22
+Spot No: 2
+Vehical Type: bikk
+Arrival Time: 03:23:20 PM
+Date: 26/04/2021
+
+Ticket No: 23
+Spot No: 2
+Vehical Type: Car
+Arrival Time: 04:39:53 PM
+Date: 26/04/2021
+
+Ticket No: 24
+Spot No: 3
+Vehical Type: Bike
+Arrival Time: 04:42:17 PM
+Date: 26/04/2021
+
+Ticket No: 25
+Spot No: 2
+Vehical Type: Bike
+Arrival Time: 04:43:49 PM
+Date: 26/04/2021
+
+Ticket No: 26
+Spot No: 3
+Vehical Type: bike
+Arrival Time: 04:49:20 PM
+Date: 26/04/2021
+
+Ticket No: 27
+Spot No: 2
+Vehical Type: bike
+Arrival Time: 04:55:28 PM
+Date: 26/04/2021
+
+Ticket No: 28
+Spot No: 1
+Vehical Type: aryan
+Arrival Time: 05:03:47 PM
+Date: 26/04/2021
+
+Ticket No: 29
+Spot No: 1
+Vehical Type: New V
+Arrival Time: 05:08:54 PM
+Date: 26/04/2021
+
+Ticket No: 30
+Spot No: 2
+Vehical Type: Chandana
+Arrival Time: 06:14:07 PM
+Date: 26/04/2021
+
